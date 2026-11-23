@@ -1,0 +1,11 @@
+﻿
+PART 1 - search efficiency over 100 identical random gardens
+  Pupper           mean   96.3 balls   best  84   worst 100   (    2.0 ms per game)
+  Good Boy         mean   64.3 balls   best  37   worst  92   (    1.6 ms per game)
+  The Dogfather    mean   49.6 balls   best  33   worst  73   ( 3149.7 ms per game)
+
+PART 2 - head-to-head round robin, 100 games per pairing
+  Pupper           vs Good Boy            0% -  100%
+  Pupper           vs The Dogfather       0% -  100%
+  Good Boy         vs The Dogfather      15% -   85%
+  charts saved to results/

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+dist/
+web_build/
+# private / not ours to publish
+testing_mode.py
+hide_and_sausage/ui/scenes_testing.py
+DogfatherTestingMode.spec
+assets/sounds/music.mp3
